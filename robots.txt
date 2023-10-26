@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://maximilianheer.github.io//al-folio/sitemap.xml
